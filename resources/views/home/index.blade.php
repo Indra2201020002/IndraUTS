@@ -3,14 +3,13 @@
 @section('title', 'Home')
 
 @section('breadcrumb')
-    <li class="breadcrumb-item active">Home</li>
+    <h1>Selamat Datang Di Toko Kami ...</h1>
+    <li class="breadcrumb-item active">Temukan keindahan tersembunyi dari lautan dan sungai di MOMO FISH STORE. Dari ikan karang berwarna-warni hingga spesies air tawar yang langka, kami menawarkan pilihan ikan yang memukau untuk memperindah akuarium Anda. 
+      Koleksi kami yang luas mencakup berbagai ukuran dan jenis, memastikan bahwa setiap pecinta ikan dapat menemukan spesies yang sempurna sesuai dengan preferensi.</li>
 @endsection
 
 @section('content')
-    <h1>Selamat Datang Di Toko Kami</h1>
-    <p>Temukan keindahan tersembunyi dari lautan dan sungai di MOMO FISH STORE. Dari ikan karang berwarna-warni hingga spesies air tawar yang langka, kami menawarkan pilihan ikan yang memukau untuk memperindah akuarium Anda. 
-        Koleksi kami yang luas mencakup berbagai ukuran dan jenis, memastikan bahwa setiap pecinta ikan dapat menemukan spesies yang sempurna sesuai dengan preferensi mereka.
-    </p>
+
     <p>Ada beberapa jenis ikan yang kami jual : </p>
 
     <div class="card mb-3" style="max-width: 675px;">
