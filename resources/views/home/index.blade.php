@@ -21,7 +21,7 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Ikan Laut</h5>
-              <p class="card-text"> Kelompok ikan dari laut yang biasanya dipelihara dalam akuarium karena keindahan dan warna-warni yang menarik</p>
+              <p class="card-text">Jenis ikan dari laut yang biasanya dipelihara dalam akuarium karena keindahan dan warna-warni yang menarik</p>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Ikan Air Tawar</h5>
-              <p class="card-text">Kelompok ikan yang populer di kalangan pemilik akuarium karena keindahan warna dan pola yang menarik</p>
+              <p class="card-text">Jenis ikan yang populer di kalangan pemilik akuarium karena keindahan warna dan pola yang menarik</p>
             </div>
           </div>
         </div>
@@ -49,7 +49,7 @@
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Ikan Air Payau</h5>
-              <p class="card-text">ikan yang biasa ditemui di perairan payau, seringkali memiliki penampilan yang menarik dan unik</p>
+              <p class="card-text">Jenis ikan yang biasa ditemui di perairan payau, seringkali memiliki penampilan yang menarik dan unik</p>
             </div>
           </div>
         </div>
